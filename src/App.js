@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Todos from './Todos'
 import AddTodo from './AddTodo'
-//import './App.css';
 
 //root component container, store state, object with todos property, 2 items
 class App extends Component {

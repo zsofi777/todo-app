@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: white;
+  background: rgb(176, 175, 185);
   font-family: briberra;
   color: #d50000;
 }
@@ -27,6 +27,9 @@ h1 {
   background-size: cover;
   background-repeat: no-repeat;
   font-size: 40px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
 .collection {
