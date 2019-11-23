@@ -1,8 +1,8 @@
 # A simple [React](https://reactjs.org) - [Materialize](https://materializecss.com/) Todo App :ballot_box_with_check:
 
-This is a simple implementation of a To Do list to show ReactJS's basic features: components, props and state.
+This is a simple implementation of a To Do list to show React's basic features: components, props and state.
 
-As starting point, use create-react-app, a node package developed by the creators of ReactJS that provides the basic scaffolding you need to create a ReactJS site. If you don't have it installed you can get instructions [here](https://github.com/facebook/create-react-app).
+As starting point, use create-react-app, a node package developed by the creators of React that provides the basic scaffolding you need to create a React site. If you don't have it installed you can get instructions [here](https://github.com/facebook/create-react-app).
 
 - App.js
 
