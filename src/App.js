@@ -13,7 +13,6 @@ class App extends Component {
     const todos = this.state.todos.filter(todo => {
       return todo.id !== id
     });
-    //update
     this.setState({
       todos: todos
     });
